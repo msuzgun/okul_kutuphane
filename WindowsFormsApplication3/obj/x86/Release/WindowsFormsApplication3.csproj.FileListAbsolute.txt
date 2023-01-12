@@ -1,0 +1,9 @@
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.kitaplar.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.kullanici.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.menu.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.Properties.Resources.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.exe
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.pdb
